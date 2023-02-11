@@ -44,3 +44,10 @@ It used to be the location of the country's one and only steel milling facility,
 but that was a long time ago before globalization weeded out incompetent players in the industry.
 Now theres barely any trace of that factory anymore.
 ```
+
+## 8. How is the climate on your hometown?
+```
+Its wet al year round, 
+during the first half of the year rains are to be expected,
+on the later half, that plus a copius amount of storms.
+```
