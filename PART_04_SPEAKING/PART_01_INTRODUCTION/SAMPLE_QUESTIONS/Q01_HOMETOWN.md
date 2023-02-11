@@ -30,3 +30,10 @@ modern-world development hasnt reached it yet,
 I personally would find it difficult to survive without reliable internet
 and a stable supply of electricity. 
 ```
+
+## 6. Do you often visit your hometown?
+```
+I rarely do, almost always only during rare or grave occasions. 
+Basically, only on weddings and funerals,
+I find it incredibly hard to squeeze in time at my stage in life.
+```
