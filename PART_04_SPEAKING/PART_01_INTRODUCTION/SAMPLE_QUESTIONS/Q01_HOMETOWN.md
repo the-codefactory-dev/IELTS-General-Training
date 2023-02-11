@@ -7,5 +7,6 @@ It is a relatively small coastal city.
 ## 2. Describe your hometown
 ```
 It has ample amount of mountains in the background,
-and the coastal areas look beautiful
+the coastal areas look beautiful,
+and the waterfalls are all over the place.
 ```
