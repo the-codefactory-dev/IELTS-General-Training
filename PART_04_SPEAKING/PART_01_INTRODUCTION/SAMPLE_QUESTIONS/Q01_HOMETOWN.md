@@ -16,3 +16,17 @@ and the waterfalls are all over the place.
 I lived there since I was born and only left it when I started to look for a job,
 theres not much economic oppurtunities over there.
 ```
+
+## 4. Do you like your hometown? If YES, what do you like most about it?
+```
+Yes, I love my hometown, if it were up to me I wouldnt have left.
+Fresh air, abundant trees, and a lot of naturals springs.
+```
+
+## 5. Is there anything that you dislike about it?
+```
+Theres a reason why nature was preserved in my hometown, 
+modern-world development hasnt reached it yet, 
+I personally would find it difficult to survive without reliable internet
+and a stable supply of electricity. 
+```
